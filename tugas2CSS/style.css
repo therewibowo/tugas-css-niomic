@@ -1,0 +1,14 @@
+p{
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-size: 12px;
+     color: blue;
+}
+body{
+	background-color: green;
+}
+#garis{
+	text-decoration: line-through;
+}
+.teks{
+	text-align: right;
+}

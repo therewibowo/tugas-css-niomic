@@ -1,0 +1,24 @@
+.menu{
+    background-color: black;
+    color: rgb(247, 247, 247);
+    font-variant: small-caps;
+    font-family: 'Times New Roman', Times, serif
+    
+}
+.footer{
+    background-color: black;
+    color: white;
+    font-family: serif;
+    text-align: center;
+}
+.pertama{
+    text-align: justify;
+    font: italic small-caps bolder 36px;
+    text-indent: 1px;
+}
+.slider-div{
+    margin-bottom: 1px;
+    margin-top: 10px;
+    text-align: center;
+    font-weight: 300;
+}

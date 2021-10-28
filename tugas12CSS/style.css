@@ -1,0 +1,46 @@
+ul{
+	list-style-type: none;
+	margin: 0;;
+	padding: 0;
+	overflow: hidden;
+	background-color: #333;
+}
+li{
+	float: left;
+}
+li a {
+	display: block;
+	color: white;
+	text-align: center;
+	text-decoration: none;
+	padding: 14px 16px;
+}
+li a:hover{
+	background-color: #111;
+}
+body{
+	background-color: rgb(194, 240, 247);
+}
+footer{
+	background-color: black;
+	color: white;
+	text-align: center;
+	height: 50px;
+	
+}
+.p-text{
+	column-count: 4;
+	column-fill: balance;
+	column-rule: 2px double black;
+	text-align: justify;
+
+}
+.slider-img{
+	width: 1300px;
+	height: 800px;
+	margin: 20px 20px 20px 20px;
+}
+.image{
+	width: 200px;
+	height: 300px;
+}
